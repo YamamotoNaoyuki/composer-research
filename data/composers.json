@@ -1,0 +1,14 @@
+{
+  "composers": [
+    {
+      "id": "chopin",
+      "nameJa": "ショパン",
+      "nameOriginal": "Frédéric Chopin",
+      "tier": 1,
+      "skeleton": "draft",
+      "articulation": "none",
+      "gaps": 0,
+      "lastUpdated": "2026-03-22"
+    }
+  ]
+}
