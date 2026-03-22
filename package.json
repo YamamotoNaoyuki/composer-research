@@ -1,0 +1,19 @@
+{
+  "name": "composer-research",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "skeleton": "ts-node src/skeleton.ts",
+    "articulation": "ts-node src/articulation.ts",
+    "gaps": "ts-node src/gap-tracker.ts",
+    "tier": "ts-node src/utils/tier.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "description": "作曲家リサーチを体系的に進めるためのCLIツール群",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0",
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
