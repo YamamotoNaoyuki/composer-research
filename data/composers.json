@@ -9,6 +9,16 @@
       "articulation": "none",
       "gaps": 0,
       "lastUpdated": "2026-03-22"
+    },
+    {
+      "id": "mahler",
+      "nameJa": "マーラー",
+      "nameOriginal": "Gustav Mahler",
+      "tier": 1,
+      "skeleton": "draft",
+      "articulation": "none",
+      "gaps": 0,
+      "lastUpdated": "2026-03-23"
     }
   ]
 }
